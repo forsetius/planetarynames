@@ -34,7 +34,7 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-!.gitkeep
 .env
-tmp/
-output/
+tmp/*
+output/*
+!.gitkeep
